@@ -1,0 +1,24 @@
+---
+- students:
+    - name: anil
+      phno: 8106051612
+      area: kphb
+      address:
+         doorno: 81-260-7 
+         pincode: 518002
+
+- students:
+    - name: krish
+      phno: 8985030830
+      area: clny
+      address: 
+         doorno: 28-30-392
+         pincode: 518003
+        
+- students:
+    - name: raja
+      phno: 8885267248
+      area: kphb     
+      address:
+         doorno: 23-0-99
+         pincode: 518003
